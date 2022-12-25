@@ -1,0 +1,23 @@
+Detroit 300
+Toledo 200
+Indianapolis 100
+WashingtonDC 200
+Springfield 200
+Topeka 100
+Columbus 100
+Frankfort 0
+Richmond 200
+Charleston 100
+Lincoln 200
+Nashville 100
+Raleigh 100
+Austin 200
+Jackson 200
+Atlanta 200
+Columbia 200
+Olympia 500
+Salem 400
+Sacramento 400
+Boise 300
+END
+
